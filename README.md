@@ -2,7 +2,7 @@
 
 An art director, however, I am developer too. Also a Expert at Adobe systems and I always try to contribute to people. :computer:
 
- :rocket:  &nbsp; Workin at ** Vedomi Studio **
+ :rocket:  &nbsp; Workin at **Vedomi Studio**
  <br/> :purple_heart: &nbsp; Currently, I seek to develop and collaborate in Frontend development projects ! HTML/ CSS, React, Node.js 
  <br/> :blush: &nbsp; I can help you with Layout, CSS Grid, UX / UI
  <br/> :computer: &nbsp; My stack: Vue.js, Marko.js, ReactJS, Node.js, React Native, SQLite and Python
